@@ -1,0 +1,14 @@
+Archivos con NaN dentro de Colombia:
+  - GAIA_BUILT_PCT_1km_CO_2007.tif
+  - GAIA_BUILT_PCT_1km_CO_2008.tif
+  - GAIA_BUILT_PCT_1km_CO_2009.tif
+  - GAIA_BUILT_PCT_1km_CO_2010.tif
+  - GAIA_BUILT_PCT_1km_CO_2011.tif
+  - GAIA_BUILT_PCT_1km_CO_2012.tif
+  - GAIA_BUILT_PCT_1km_CO_2013.tif
+  - GAIA_BUILT_PCT_1km_CO_2014.tif
+  - GAIA_BUILT_PCT_1km_CO_2015.tif
+  - GAIA_BUILT_PCT_1km_CO_2016.tif
+  - GAIA_BUILT_PCT_1km_CO_2017.tif
+  - GAIA_BUILT_PCT_1km_CO_2018.tif
+  - GAIA_BUILT_PCT_1km_CO_2019.tif
