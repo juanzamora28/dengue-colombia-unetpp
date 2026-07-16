@@ -1,0 +1,50 @@
+cff-version: 1.2.0
+
+message: "If you use this repository, please cite the archived software release."
+
+title: "Dengue Colombia U-Net++: code and data for spatiotemporal dengue risk mapping"
+
+version: "1.0.0"
+
+type: software
+
+abstract: "Code, data organization, utilities, and results used for U-Net++-based spatiotemporal dengue risk mapping in Colombia."
+
+repository-code: "https://github.com/juanzamora28/dengue-colombia-unetpp"
+
+authors:
+  - given-names: Daira
+    family-names: Velandia
+    affiliation: "Institute of Statistics, Universidad de Valparaíso, Valparaíso, Chile"
+
+  - given-names: Javiera
+    family-names: Contador
+    affiliation: "Institute of Statistics, Universidad de Valparaíso, Valparaíso, Chile"
+
+  - given-names: Juan
+    family-names: Zamora
+    affiliation: "Institute of Statistics, Universidad de Valparaíso, Valparaíso, Chile; Center of Interdisciplinary Biomedical and Engineering Research for Health (MEDING), Universidad de Valparaíso, Valparaíso, Chile"
+
+  - given-names: Diana
+    family-names: Martínez
+    affiliation: "Institute of Statistics, Universidad de Valparaíso, Valparaíso, Chile; Center of Interdisciplinary Biomedical and Engineering Research for Health (MEDING), Universidad de Valparaíso, Valparaíso, Chile"
+
+  - given-names: Débora
+    family-names: Buendía
+    affiliation: "Biomedical Engineering School, Universidad de Valparaíso, Valparaíso, Chile"
+
+  - given-names: Ximena
+    family-names: Collao
+    affiliation: "Medical School, Universidad de Valparaíso, Valparaíso, Chile; Center of Interdisciplinary Biomedical and Engineering Research for Health (MEDING), Universidad de Valparaíso, Valparaíso, Chile"
+
+  - given-names: Rodrigo
+    family-names: Salas
+    affiliation: "Biomedical Engineering School, Universidad de Valparaíso, Valparaíso, Chile; Center of Interdisciplinary Biomedical and Engineering Research for Health (MEDING), Universidad de Valparaíso, Valparaíso, Chile; Millennium Institute for Intelligent Healthcare Engineering (iHealth), Santiago, Chile"
+
+keywords:
+  - dengue
+  - Colombia
+  - U-Net++
+  - deep learning
+  - spatial epidemiology
+  - spatiotemporal modelling
