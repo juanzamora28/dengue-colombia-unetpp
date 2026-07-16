@@ -40,7 +40,7 @@ The exact version used for the manuscript is identified as release `v1.0.0` and 
 
 Please cite the archived Zenodo record corresponding to release `v1.0.0`.
 
-The DOI will be added to this README after the GitHub release has been archived by Zenodo.
+The exact version used for the manuscript, release `v1.0.0`, is permanently archived in Zenodo: https://doi.org/10.5281/zenodo.21402140.
 
 ## Data and reuse
 
